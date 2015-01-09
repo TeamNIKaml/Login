@@ -4,8 +4,8 @@
   require_once('facebook.php');
 
   $config = array(
-    'appId' => '1558730611035951',
-    'secret' => 'e287093e212235e38c83707dff8ab3f0',
+    'appId' => 'Your app id',
+    'secret' => 'Your password',
     'allowSignedRequest' => false // optional but should be set to false for non-canvas apps
   );
 
